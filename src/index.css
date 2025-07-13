@@ -24,6 +24,15 @@ h2{
   margin: 0 auto;
 }
 
+button{
+  border: none;
+  font-size: 30px;
+  background-color: transparent;
+  width: 100%;
+  text-align: right;
+  cursor: pointer;
+}
+
 .card {
   border: 1px solid #4b5362;
   padding: 20px;
